@@ -1,11 +1,11 @@
 {
-    "homepage": "https://1000mj.github.io/weather-app",
+    "homepage": "https://1000mj.github.io/kb_imitation",
     "name": "weather-app",
     "dependencies": {
         "gh-pages": "^6.0.0"
     },
     "scripts": {
-        "homepage": "https://1000mj.github.io/weather-app/",
+        "homepage": "https://1000mj.github.io/kb_imitation/",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
     }
